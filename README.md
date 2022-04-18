@@ -1,5 +1,3 @@
-# E1-JS
-Ejercicio 1: Javascript 
 ingredientesPizza = ["Harina", "Sal", "Agua", "Levadura", "Tomate", "Ajo", "Oregano", "Aceite", "Jamon", "Muzzarella"];
 
 function ordenarIngredientes(ingredientesPizza) {
